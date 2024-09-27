@@ -16,5 +16,5 @@ module "tfrun-functions" {
 
 policy "allowed-providers" {
     source = "./allowed-providers.sentinel"
-    enforcement_level = "Hard Mandatory"
+    enforcement_level = "hard-mandatory"
 }
