@@ -17,7 +17,7 @@ import "strings"
 # List of allowed providers
 allowed_list = ["aws", "local", "null", "random", "terraform", "tfe"]
 
-# Get all providers
+# Get all providers lallalala
 allProviders = config.find_all_providers()
 
 # Filter to providers with violations
