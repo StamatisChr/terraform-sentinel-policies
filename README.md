@@ -1,5 +1,7 @@
 # Example Third Generation Sentinel Policies for Terraform
 
+Lalala
+
 NOTE: The content of this repository is in the process of being migrated to the [Terraform Registry](https://registry.terraform.io/browse/policies).
 
 This directory and its sub-directories contain third-generation Sentinel policies and associated [Sentinel CLI](https://docs.hashicorp.com/sentinel/intro/getting-started/install) test cases and mocks which were created in 2020 for AWS, Microsoft Azure, Google Cloud Platform (GCP), and VMware. It also contains some some common, re-usable functions.
