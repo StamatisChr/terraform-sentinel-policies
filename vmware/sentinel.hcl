@@ -34,3 +34,8 @@ policy "restrict-vm-disk-size" {
     source = "./restrict-vm-disk-size.sentinel"
     enforcement_level = "advisory"
 }
+
+policy "restrict-vm-disk-size1" {
+    source = "./restrict-vm-disk-size.sentinel"
+    enforcement_level = "advisory"
+}
